@@ -1,4 +1,4 @@
 # Pogoda-react
-Для запуска
-npm install 
-npm start
+Для запуска <br>
+npm install <br>
+npm start <br>
